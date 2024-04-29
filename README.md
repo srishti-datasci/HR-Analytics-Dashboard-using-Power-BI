@@ -15,6 +15,9 @@ Action: -
 > Data Visualization: Create Measures and columns Using DAX functions such as count, sum, calculate, etc.
 
 [LIVE REPORT LINK](https://app.powerbi.com/view?r=eyJrIjoiNWEyYjIyYTUtNDdjZi00ZmQ2LWFiMDEtNzU0N2I1NmU1OWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
 Insights: -
 1.    The attrition rate is higher in Life Sciences Education which is 38%.
 2.    Maximum attrition happening in the age group 26-35.
